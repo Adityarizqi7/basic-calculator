@@ -1,0 +1,21 @@
+{
+  "name": "basic-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adityarizqi7/basic-calculator.git"
+  },
+  "author": "Aditya Rizqi Ardhana <ardhanajames777@gmail.com>",
+  "license": "MIT",
+  "description": "Aplikasi Calculator Dasar",
+  "bugs": {
+    "url": "https://github.com/Adityarizqi7/basic-calculator/issues"
+  },
+  "homepage": "https://github.com/Adityarizqi7/basic-calculator#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
